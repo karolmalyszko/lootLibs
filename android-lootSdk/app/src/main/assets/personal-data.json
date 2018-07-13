@@ -1,0 +1,41 @@
+{
+  "token":"0",
+  "last_finished_step":"PERSONAL_DATA",
+  "email":"jdjdjd@jdjx.com",
+  "phone_number":"+48791193444",
+  "personal_data":{
+    "first_name":null,
+    "last_name":null,
+    "birth_date":null,
+    "gender":"MALE",
+    "preferred_name":"PrefNameTest",
+    "title":"MR",
+    "profile_photo":null,
+    "address":{
+      "street":null,
+      "post_town":"Caernarfon",
+      "country":"GBR",
+      "postcode":"LL55 3AS",
+      "number":null,
+      "building_name":null,
+      "sub_building_name":null,
+      "sub_street":null,
+      "county":"Gwynedd",
+      "village":null,
+      "organisation":null,
+      "address_line_1":"Awelon",
+      "address_line_2":"Erw Bian Terrace",
+      "address_line_3":"Bethel",
+      "summary_line":"",
+      "premise":""
+    }
+  },
+  "kyc":{
+    "status":"IN_PROGRESS",
+    "reason":null,
+    "details":null,
+    "attempts":0
+  },
+  "intercom_hash":"",
+  "public_id":null
+}

@@ -1,0 +1,230 @@
+{
+  "friends_on_loot": [
+    {
+      "id": "C0NT4CT-1D-00",
+      "name": "Z Loot Friend",
+      "account_number": "00000000",
+      "sort_code": "12-34-56",
+      "profile_photo": "http://www.poznan.pl/mim/info/pictures/od-stycznia-nie-bedzie-oplaty-za-psa,pic1,1016,88937,127599,with-ratio,1_1.jpg"
+    },
+    {
+      "id": "C0NT4CT-1D-01",
+      "name": "SLoot Friend",
+      "account_number": "00000001",
+      "sort_code": "12-34-56",
+      "profile_photo": "https://www.reef2reef.com/attachments/image-jpg.160623/"
+    },
+    {
+      "id": "C0NT4CT-1D-02",
+      "name": "A Loot Friend",
+      "account_number": "00000002",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-03",
+      "name": "B Friend Loot",
+      "account_number": "00000003",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    }
+  ],
+  "saved_details": [
+    {
+      "id": "C0NT4CT-1D-04",
+      "name": "K Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-05",
+      "name": "L Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-06",
+      "name": "1 Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-07",
+      "name": "D Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-08",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-09",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-10",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-11",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-12",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-13",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-14",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-15",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-16",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-17",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-18",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-19",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-20",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-21",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-22",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-23",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-24",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-25",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-26",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-27",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-28",
+      "name": "Saved Contact",
+      "account_number": "00000004",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-29",
+      "name": "Saved Contact",
+      "account_number": "00000005",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-30",
+      "name": "Contact Saved",
+      "account_number": "00000006",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    },
+    {
+      "id": "C0NT4CT-1D-31",
+      "name": "Saved Contact",
+      "account_number": "00000007",
+      "sort_code": "12-34-56",
+      "profile_photo": null
+    }
+  ]
+}

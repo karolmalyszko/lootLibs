@@ -1,0 +1,44 @@
+{
+  "user": {
+    "email": "test@loot.io",
+    "current_country_code": "GBR",
+    "legend": false,
+    "personal_details": {
+      "title": "MR",
+      "preferred_name": "PrefNameTest",
+      "first_name": "Jhonny",
+      "last_name": "Test",
+      "middle_name": null,
+      "birth_date": "1990-12-12",
+      "gender": "MALE",
+      "phone_number": "+48791193444",
+      "nationality_code": null,
+      "profile_photo": "",
+      "address": {
+        "street": null,
+        "post_town": "dHailsha",
+        "country": "GBR",
+        "postcode": "BN27 1HS",
+        "number": null,
+        "building_name": null,
+        "sub_building_name": null,
+        "sub_street": null,
+        "county": null,
+        "village": null,
+        "organisation": null,
+        "created_at": "2016-11-16T09:52:22.412Z",
+        "updated_at": "2017-01-11T14:19:53.393Z",
+        "address_line_1": "AddresLine1",
+        "address_line_2": "",
+        "address_line_3": null,
+        "summary_line": null,
+        "premise": null
+      },
+      "kyc_verification": {
+        "status": "APPROVED_VERIFIED",
+        "reject_reason_status": null,
+        "reject_details_statuses": ""
+      }
+    }
+  }
+}

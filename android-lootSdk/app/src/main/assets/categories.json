@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "parent_id": "1",
+      "name": "Health & Beauty",
+      "priority": "",
+      "colour": "#ff2751",
+      "icon": {
+        "icon_png_url": "file:///android_asset/bills.png",
+        "icon_svg_url": "file:///android_asset/bills.svg"
+      }
+    },
+    {
+      "id": "2",
+      "parent_id": "2",
+      "name": "Bill",
+      "priority": "",
+      "colour": "#db95e2",
+      "icon": {
+        "icon_png_url": "file:///android_asset/bills.png",
+        "icon_svg_url": "file:///android_asset/bills.svg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+apply plugin: 'maven'
+apply plugin: 'com.android.library'
+apply plugin: 'android-maven'
+
+def versionNameId = "1.0.12"
+def versionCodeId = 13
+
+task createPom {
+    pom {
+        project {
+            groupId 'loot'
+            artifactId 'tooltips'
+            version versionNameId
+        }
+    }.writeTo("pom.xml")
+}
+android {
+    compileSdkVersion 27
+    buildToolsVersion '26.0.2'
+
+    group "loot"    //group ID
+    version versionNameId    //version
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode versionCodeId
+        versionName versionNameId
+        archivesBaseName = "tooltips"    //artifact ID
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:27.1.0'
+}

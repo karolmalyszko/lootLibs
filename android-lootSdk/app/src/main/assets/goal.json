@@ -1,0 +1,10 @@
+{
+  "id": "0",
+  "name": "Goal",
+  "description": null,
+  "balance": "0.12",
+  "goal_amount": "12.34",
+  "save_by": "2017-01-05T15:31:33+00:00",
+  "status": "IN_PROGRESS",
+  "goal_percentage": 0.1
+}

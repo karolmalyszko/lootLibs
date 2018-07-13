@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_back_color">@android:color/transparent</color>
+    <color name="default_back_stroke_color">#f0f0f0</color>
+    <color name="default_chart_value_color">#ff3d00</color>
+    <color name="default_shadow_color">#20000000</color>
+</resources>

@@ -1,0 +1,13 @@
+local.properties
+
+
+# Gradle files
+.gradle/
+build/
+
+
+.DS_Store
+
+# Intellij
+*.iml
+.idea/

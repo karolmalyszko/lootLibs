@@ -1,0 +1,13 @@
+{
+  "auth_token": "0",
+  "devices": [
+    {
+      "device_id": "0",
+      "device_name": "Test"
+    },
+    {
+      "device_id": "1",
+      "device_name": "Test - PIN"
+    }
+  ]
+}

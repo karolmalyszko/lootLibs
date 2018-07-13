@@ -1,0 +1,17 @@
+[
+  {
+    "id": "loot_public_id_1",
+    "phonebook_id": "1",
+    "picture_url": "https://imgflip.com/s/meme/Socially-Awesome-Awkward-Penguin.jpg"
+  },
+  {
+    "id": "loot_public_id_2",
+    "phonebook_id": "2",
+    "picture_url": "https://memegenerator.net/img/images/600x600/12699232/thinking-foot.jpg"
+  },
+  {
+    "id": "loot_public_id_3",
+    "phonebook_id": "3",
+    "picture_url": null
+  }
+]

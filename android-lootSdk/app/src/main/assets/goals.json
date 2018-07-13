@@ -1,0 +1,36 @@
+{
+  "goals": [
+    {
+      "id": "0",
+      "name": "Goal1",
+      "description": null,
+      "balance": "12.34",
+      "goal_amount": "12.34",
+      "save_by": "2017-01-05T15:31:33+00:00",
+      "image_url": "https://loot-savings.s3.amazonaws.com/uploads/b2f9113b-59dd-4ab2-95c1-e891ec678e5d20170123-10935-1agongl.png",
+      "status": "DONE",
+      "goal_percentage": 1.0
+    },
+    {
+      "id": "0",
+      "name": "Goal2",
+      "description": null,
+      "balance": "0.12",
+      "goal_amount": "12.34",
+      "save_by": "2017-01-05T15:31:33+00:00",
+      "status": "IN_PROGRESS",
+      "goal_percentage": 0.1
+    },
+    {
+      "id": "0",
+      "name": "Goal3",
+      "description": null,
+      "balance": "0.34",
+      "goal_amount": "12.34",
+      "save_by": "2017-01-05T15:31:33+00:00",
+      "image_url": "https://loot-savings.s3.amazonaws.com/uploads/b2f9113b-59dd-4ab2-95c1-e891ec678e5d20170123-10935-1agongl.png",
+      "status": "IN_PROGRESS",
+      "goal_percentage": 0.25
+    }
+  ]
+}

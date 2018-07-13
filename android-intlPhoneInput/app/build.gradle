@@ -1,0 +1,45 @@
+apply plugin: 'maven'
+apply plugin: 'android-library'
+apply plugin: 'android-maven'
+
+def versionNameId = "1.37"
+def versionCodeId = 30
+
+task createPom {
+    pom {
+        project {
+            groupId 'loot'
+            artifactId 'intlPhoneInput'
+            version versionNameId
+        }
+    }.writeTo("pom.xml")
+}
+android {
+    compileSdkVersion 24
+    buildToolsVersion '26.0.2'
+
+    group "loot"    //group ID
+    version versionNameId    //version
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 24
+        versionCode versionCodeId
+        versionName versionNameId
+        archivesBaseName = "intlPhoneInput"    //artifact ID
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.googlecode.libphonenumber:libphonenumber:7.7.2'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.github.michael-rapp:android-material-dialog:4.0.1'
+    compile 'com.jakewharton:butterknife:8.1.0'
+}

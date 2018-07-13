@@ -1,0 +1,125 @@
+apply plugin: 'maven'
+apply plugin: 'com.android.library'
+apply plugin: 'android-maven'
+apply plugin: 'org.greenrobot.greendao'
+apply plugin: "jacoco-android"
+
+def groupName = "loot"
+def artifact = "lootSdk"
+def versionNameId = "2.1.35"
+def versionCodeId = 148
+
+task createPom {
+    pom {
+        project {
+            groupId groupName
+            artifactId artifact
+            version versionNameId
+
+        }
+    }.writeTo("pom.xml")
+}
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    group groupName    //group ID
+    version versionNameId    //version
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 27
+        versionCode versionCodeId
+        versionName versionNameId
+        archivesBaseName = artifact    //artifact ID
+        archivesBaseName = artifact    //artifact ID
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.schemaLocation":
+                                     "$projectDir/schemas".toString()]
+            }
+        }
+
+    }
+
+    sourceSets {
+        androidTest.assets.srcDirs +=
+                files("$projectDir/schemas".toString())
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+jacoco {
+    toolVersion = "0.7.6.201602180812"
+    reportsDir = file("$buildDir/customJacocoReportDir")
+
+}
+
+jacocoAndroidUnitTestReport {
+    excludes += ['**/*$ViewBinder*.*']
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation group: 'org.jacoco', name: 'org.jacoco.agent', version: '0.7.6.201602180812'
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    androidTestImplementation('com.android.support:multidex-instrumentation:1.0.3') {
+        exclude group: 'com.android.support', module: 'multidex'
+    }
+
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+
+    compileOnly 'org.glassfish:javax.annotation:10.0-b28'
+
+    // lombok
+    implementation "org.projectlombok:lombok:1.16.8"
+    annotationProcessor "org.projectlombok:lombok:1.16.8"
+
+    //GreenDao ORM
+    implementation 'org.greenrobot:greendao:3.2.2'
+    implementation 'net.zetetic:android-database-sqlcipher:3.5.9@aar'
+
+    // joda time
+    implementation 'net.danlew:android.joda:2.9.9'
+
+    // Stripe
+    implementation 'com.stripe:stripe-android:2.1.0'
+
+    // Room
+    implementation "android.arch.persistence.room:runtime:1.1.1"
+    annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
+    androidTestImplementation "android.arch.persistence.room:testing:1.1.1"
+
+    // LiveData
+    implementation "android.arch.lifecycle:extensions:1.1.1"
+    testImplementation "android.arch.core:core-testing:1.1.1"
+    testImplementation "org.mockito:mockito-core:2.11.0"
+    // Pagination Library
+    implementation ('android.arch.paging:runtime:1.0.0')  {
+        exclude group: 'com.android.support'
+    }
+
+    androidTestImplementation "android.arch.core:core-testing:1.1.1"
+    androidTestImplementation "org.mockito:mockito-android:2.9.0"
+
+    testImplementation 'junit:junit:4.12'
+
+    implementation "de.adorsys.android:securestoragelibrary:1.0.2"
+}

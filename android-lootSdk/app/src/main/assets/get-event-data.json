@@ -1,0 +1,42 @@
+{
+  "token":"0",
+  "last_finished_step":"PROFILE_PHOTO",
+  "email": "test@loot.io",
+  "phone_number":"+48791193444",
+  "personal_data": {
+    "first_name": "Jhonny",
+    "last_name": "Test",
+    "birth_date": "1990-12-12",
+    "preferred_name": "",
+    "title": "MR",
+    "gender": "MALE",
+    "address": {
+      "street": null,
+      "post_town": "dHailsha",
+      "country": "GBR",
+      "postcode": "BN27 1HS",
+      "number": null,
+      "building_name": null,
+      "sub_building_name": null,
+      "sub_street": null,
+      "county": null,
+      "village": null,
+      "organisation": null,
+      "created_at": "2016-11-16T09:52:22.412Z",
+      "updated_at": "2017-01-11T14:19:53.393Z",
+      "address_line_1": "AddresLine1",
+      "address_line_2": "",
+      "address_line_3": null,
+      "summary_line": null,
+      "premise": null
+    }
+  },
+  "kyc":
+  {
+    "status":"APPROVED_VERIFIED",
+    "reason":"",
+    "details":"",
+    "attempts":1
+  },
+  "intercom_hash":""
+}

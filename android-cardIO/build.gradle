@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url  "http://dl.bintray.com/jfrog/jfrog-jars"
+        }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.1'
+        classpath "io.codearte.gradle.nexus:gradle-nexus-staging-plugin:0.5.3"
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.4.1'
+        classpath 'com.github.dcendents:android-maven-plugin:1.0'
+    }
+}
+
+task assemble {}
+
+ext {
+    sdkVersion = 25
+    buildToolsVersion = '25.0.2'
+}

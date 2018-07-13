@@ -1,0 +1,52 @@
+apply plugin: 'maven'
+apply plugin: 'android-library'
+apply plugin: 'android-maven'
+
+def groupName = "loot"
+def artifact = "materialEditText"
+def versionNameId = "1.5"
+def versionCodeId = 6
+
+ext {
+    SUPPORT_LIB_VERSION = "26.1.0"
+}
+
+task createPom {
+    pom {
+        project {
+            groupId groupName
+            artifactId artifact
+            version versionNameId
+        }
+    }.writeTo("pom.xml")
+}
+
+android {
+  compileSdkVersion 26
+  buildToolsVersion '26.0.1'
+  
+  group groupName
+  version versionNameId
+
+  defaultConfig {
+    minSdkVersion 14
+    targetSdkVersion 22
+    versionCode versionCodeId
+    versionName versionNameId
+    
+    archivesBaseName = artifact
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+}
+
+dependencies {
+  compile "com.android.support:appcompat-v7:${SUPPORT_LIB_VERSION}"
+  compile "com.android.support:support-emoji-appcompat:${SUPPORT_LIB_VERSION}"
+  compile "com.android.support:support-annotations:${SUPPORT_LIB_VERSION}"
+  compile 'com.nineoldandroids:library:2.4.0'
+}

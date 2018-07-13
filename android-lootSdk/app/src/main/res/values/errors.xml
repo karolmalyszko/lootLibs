@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">Error</string>
+    <string name="unexpected_error">Unexpected error occurred. Please try again later.</string>
+    <string name="check_internet_connection">Server not responding. Check internet connection.</string>
+    <string name="verification_canceled">Identity verification canceled. You can\'t continue sign up process.</string>
+    <string name="not_implemented">Not implemented yet!</string>
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="profile_unavailable">Profile unavailable</string>
+
+    <string name="phone_number_format_invalid">Invalid phone number format.</string>
+    <string name="phone_number_blank">Phone number is required</string>
+    <string name="email_or_password_is_incorrect">Your email or password is incorrect</string>
+    <string name="password_is_invalid">Password is invalid</string>
+    <string name="passwords_not_same">Passwords are not the same</string>
+    <string name="email_is_invalid">Email is invalid</string>
+    <string name="mobile_number_is_invalid">Mobile number is invalid</string>
+    <string name="email_cannot_be_blank">Email cannot be blank</string>
+    <string name="email_taken">Email is already taken</string>
+    <string name="password_cannot_be_blank">Password cannot be blank</string>
+    <string name="password_missing_number">Password needs to contains at least one number</string>
+    <string name="password_missing_upper_case">Password needs to contains at least one upper case character</string>
+    <string name="password_missing_lower_case">Password need to contains at least one lower case character</string>
+    <string name="password_too_short">Password is too short</string>
+    <string name="sending_sms_failed">Error sending sms, please check phone number</string>
+    <string name="phonenumber_taken">Phone number already taken</string>
+
+    <string name="details_missing_error_title">Details Missing</string>
+    <string name="prefered_name_format_invalid">Preferred name format is invalid.</string>
+    <string name="prefered_name_is_blank">Preferred name cannot be blank.</string>
+    <string name="gender_is_blank">Gender cannot be blank.</string>
+    <string name="title_is_blank">Please select a title.</string>
+    <string name="address_line_1_is_blank">Address cannot be blank.</string>
+    <string name="address_line_1_format_invalid">Address line 1 format is invalid.</string>
+    <string name="address_line_2_format_invalid">Address line 2 format is invalid.</string>
+    <string name="address_line_3_format_invalid">Address line 3 format is invalid.</string>
+    <string name="post_town_is_blank">Post town cannot be blank.</string>
+    <string name="post_town_format_invalid">Post town format is invalid.</string>
+    <string name="post_code_is_blank">Post code cannot be blank.</string>
+    <string name="post_code_is_invalid">Post code is invalid.</string>
+
+    <string name="active_card_exists">Active card exists.</string>
+    <string name="account_balance_is_not_zero">Account balance is not zero.</string>
+    <string name="cannot_check_account_balance">Cannot check account balance.</string>
+
+    <string name="device_not_supported">Your device is not supported.</string>
+    <string name="permission_missed">Mandatory permissions for identity verification are missed</string>
+
+    <string name="still_veryfing_cant_use">Your ID is still being verifying. You can\'t use this option yet.</string>
+    <string name="session_expired">Your session has expired</string>
+    <string name="street_posttown_postcode_required_info">Street, post town and postcode are required</string>
+    <string name="address_cannot_be_prefilled">Address cannot be prefilled from ID scan.</string>
+    <string name="fill_required_fields">You need to fill all required fields!</string>
+
+    <string name="waiting_list_error_email_exist">Email already exist</string>
+    <string name="waiting_list_error_email_register_as_regular_account">Email is register as regular account</string>
+    <string name="waiting_list_error_email_invalid">Invalid email address.</string>
+    <string name="waiting_list_error_referral_code_invalid">Referral code is invalid</string>
+    <string name="invalid_token">Token is invalid</string>
+    <string name="no_photo_found">You need to add a photo first</string>
+    <string name="permission_denied">Permissions denied. You have to grant permissions for Loot manually to continue.</string>
+    <string name="postcode_wrong_format">Invalid format of postcode!</string>
+    <string name="id_age_restriction">ID age restriction</string>
+    <string name="age_restriction_title">Unfortunately you need to be \n18+ to use Loot</string>
+    <string name="age_restriction_content">We are unable to provide you an account\n to users under the age of 18.\n If we\'ve made a mistake scanning your ID,\n and you are in fact over 18,\n go ahead and rescan</string>
+    <string name="card_not_found">CARD_NOT_FOUND</string>
+    <string name="ivalid_pan_number">PAN number is invalid.</string>
+    <string name="noncancellable_period">You can\'t resend SMS in that short period of time.</string>
+
+    <string name="not_found_error">Something went wrong with onboarding process. Please re-login.</string>
+    <string name="last_finished_step_error">Last step wasn\'t finished successfully. Please move back.</string>
+    <string name="error_unknown_extenstion">Profile photo has unknow extension.</string>
+    <string name="error_invalid_data">Converting image failed. Try again with another photo.</string>
+    <string name="sms_verification_verification_failed">Invalid PIN number</string>
+    <string name="sms_verification_not_found">Unexpected error occurred. Please try again later.</string>
+    <string name="sms_verification_invalid_last_finished_step">Unexpected error occurred. Please try again later.</string>
+    <string name="onboarding_pin_doesn_not_match">Pin doesn\'t match</string>
+
+    <string name="push_verification_failed">There was an error verifying your ID. Please log in and try again.</string>
+
+    <string name="cannot_store_goal">Cannot store goal. Check required fields.</string>
+    <string name="cannot_unload_money">Cannot unload money.</string>
+    <string name="missing_goal_name">Cannot store goal without name.</string>
+    <string name="account_not_found">Loot account not found.</string>
+    <string name="savings_account_not_found">Goal sub-account not found.</string>
+    <string name="goal_not_found">Goal not found.</string>
+    <string name="cannot_create_sub_account">Cannot create sub-account.</string>
+    <string name="cannot_make_internal_transfer">Cannot make internal transfer.</string>
+    <string name="amount_not_valid">Amount is not valid.</string>
+    <string name="amount_too_low">Amount cannot be lower than</string>
+
+    <string name="cannot_make_transfer">Cannot make transfer.</string>
+    <string name="reference_too_long">Reference is too long.</string>
+    <string name="insufficient_funds">Insufficient funds!</string>
+
+    <string name="budget_too_low">Budget amount is too low.</string>
+    <string name="budget_too_high">Budget amount is too high.</string>
+    <string name="budget_not_found">Budget not found.</string>
+
+    <string name="top_up_card_invalid_card_number">Sorry, your card number is invalid</string>
+    <string name="top_up_card_invalid_date">Sorry, your expiry date is invalid</string>
+    <string name="top_up_card_invalid_month">Sorry, your expiry date is invalid</string>
+    <string name="top_up_card_invalid_year">Sorry, your expiry date is invalid</string>
+    <string name="top_up_card_invalid_cvv">The CVV entered is invalid</string>
+    <string name="top_up_account_not_found">Account not found, please contact support</string>
+    <string name="top_up_amount_not_valid">Sorry, £250 is the weekly limit</string>
+    <string name="top_up_limit_exceeded">Sorry, you can add money using a debit card up to 5 times a week</string>
+    <string name="top_up_amount_too_high">Sorry, £250 is the weekly limit</string>
+    <string name="top_up_token_not_provided">Token not provided.</string>
+    <string name="top_up_cannot_charge_money">Cannot charge money.</string>
+    <string name="top_up_cannot_make_request">Cannot charge money.</string>
+    <string name="top_up_cannot_load_account">Account not found, please contact support</string>
+    <string name="top_up_3ds_failed">3D authentication was not successful, please contact your issuing bank</string>
+    <string name="top_up_only_debit_cards_allowed">Sorry, we only support adding money using a debit card</string>
+
+    <string name="recognizing_speech_app_not_found">App for speech recognizing not found!</string>
+
+    <string name="jumio_crash_title">Unexpected Error!</string>
+    <string name="jumio_crash_content">Something has gone wrong! Click ‘agree’ to restart the identity verification process.</string>
+
+    <string name="invalid_code">Invalid SMS Code!</string>
+    <string name="cannot_activate_card">Your card cannot be activated now.</string>
+    <string name="share_error_title">Share Error</string>
+
+    <string name="no_twitter">"You don't seem to have twitter installed on this device"</string>
+    <string name="no_instagram">"You don't seem to have instagram installed on this device"</string>
+
+    <string name="transactions_statement_preview_download_error">Cannot download PDF Statement</string>
+
+    <string name="password_not_changed">Password hasn\'t been changed</string>
+
+    <string name="change_number_error_title">Change number error</string>
+    <string name="number_verification_error_title">Number verification error</string>
+    <string name="card_number_error_title">Card number error</string>
+    <string name="card_pin_error_title">Pin error</string>
+    <string name="change_password_error_title">Sending data error</string>
+    <string name="discover_details_error_title">"Receiving data error"</string>
+    <string name="discover_error_title">Receiving data error</string>
+    <string name="home_error_title">Getting data error</string>
+    <string name="whats_new_error_title">Receiving data error</string>
+    <string name="lock_error_title">Lock Screen error</string>
+    <string name="make_payment_enter_password_error_title">Make payment error</string>
+    <string name="make_payment_success_error_title">Make payment error</string>
+    <string name="make_transfer_error_title">Make transfer error</string>
+    <string name="my_card_error_title">Card error</string>
+    <string name="report_lost_or_stolen_error_title">Reporting card error</string>
+    <string name="address_finder_error_title">Address finder error</string>
+    <string name="card_is_on_way_error_title">Receiving data error</string>
+    <string name="change_mobile_number_error_title">Changing phone number error</string>
+    <string name="confirm_identity_error_title">Confirming identity error</string>
+    <string name="identity_onboarding_failed_error_title">Receiving data error</string>
+    <string name="identity_underage_failed_error_title">Receiving data error</string>
+    <string name="identity_verification_failed_error_title">Receiving data error</string>
+    <string name="identity_verification_error_title">Identity verification error</string>
+    <string name="identity_verification_incomplete_error_title">Receiving data error</string>
+    <string name="sms_delivery_failure_error_title">SMS error</string>
+    <string name="verify_phone_number_error_title">Phone number verification error</string>
+    <string name="failed_scans_error_title">Failed scans error</string>
+    <string name="personal_details_error_title">Receiving data error</string>
+    <string name="profile_photo_error_title">Profile photo error</string>
+    <string name="pin_retrieval_code_confirm_error_title">Pin retrieval error</string>
+    <string name="pin_retrieval_pin_code_error_title">Pin retrieval error</string>
+    <string name="onboarding_pin_confirm_error_title">Pin confirmation error</string>
+    <string name="close_account_error_title">Close account error</string>
+    <string name="edit_personal_details_address_error_title">Sending data error</string>
+    <string name="profile_error_title">Getting data error</string>
+    <string name="security_error_title">Security error</string>
+    <string name="setup_pin_error_title">Sending data error</string>
+    <string name="setup_pin_success_error_title">Sending data error</string>
+    <string name="setup_pin_accordance_error">PIN Codes are not the same</string>
+    <string name="fees_and_limits_error_title">Getting Fees &amp; Limits error</string>
+    <string name="add_savings_goal_error_title">Adding goal error</string>
+    <string name="edit_savings_goal_error_title">Editing goal error</string>
+    <string name="money_moved_savings_goal_error_title">Moving money error</string>
+    <string name="savings_goals_error_title">Goals error</string>
+    <string name="summary_savings_goal_error_title">Goals error</string>
+    <string name="learn_more_error_title">"Registration error"Receiving data error</string>
+    <string name="login_error_title">Login error</string>
+    <string name="signup_error_title">Sign up error</string>
+    <string name="top_up_account_error_title">Add Money Error</string>
+    <string name="top_up_amount_error_title">Add Money Error</string>
+    <string name="top_up_card_details_error_title">Card Error</string>
+    <string name="top_up_3d_secure_error_title">Verification Error</string>
+    <string name="top_up_result_error_title">Add Money Error</string>
+    <string name="search_result_error_title">Search result error</string>
+    <string name="transactions_error_title">Receiving transactions error</string>
+    <string name="transactions_statement_date_picker_error_title">Generating statement error</string>
+    <string name="transactions_statement_preview_error_title">PDF Statement error</string>
+    <string name="waiting_list_congrats_your_turn_error_title">Waiting list error</string>
+    <string name="waiting_list_create_account_error_title">Waiting list error</string>
+    <string name="waiting_list_position_error_title">Receiving data error</string>
+    <string name="waiting_list_success_register_error_title">Registration error</string>
+    <string name="cant_generate_statement_from_period">Sorry, unable to generate statement, please try again later</string>
+    <string name="check_dates">Sorry, no transactions found in this date range</string>
+</resources>

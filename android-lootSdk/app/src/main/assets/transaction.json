@@ -1,0 +1,23 @@
+{
+  "transaction":
+    {
+      "id": "1",
+      "account_id": "1",
+      "description": "PT:FPOUT: ;SC:112234;Acc:12345679;Name:                  ;Ref:aaa;DDR:;",
+      "local_currency": null,
+      "local_date": "2017-01-23T14:46:08+00:00",
+      "settlement_date": "2017-01-23T14:46:08+00:00",
+      "post_transaction_balance": "6.97",
+      "type": "G",
+      "status": "SETTLED",
+      "mcc": "0",
+      "local_amount": "0.01",
+      "settlement_amount": "0.01",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": null,
+      "authorisation_amount": "",
+      "category": null,
+      "found_category": null
+    }
+}

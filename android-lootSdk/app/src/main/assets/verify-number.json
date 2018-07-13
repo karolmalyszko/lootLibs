@@ -1,0 +1,25 @@
+{
+  "token":"0",
+  "last_finished_step":"MOBILE_NUMBER_VERIFICATION",
+  "email":"test@loot.io",
+  "phone_number":"+48791193444",
+  "personal_data":
+  {
+    "first_name":null,
+    "last_name":null,
+    "birth_date":null,
+    "preferred_name":null,
+    "title":null,
+    "gender":null,
+    "profile_photo":null,
+    "address":null
+  },
+  "kyc":
+  {
+    "status":"IN_PROGRESS",
+    "reason":null,
+    "details":null,
+    "attempts":0
+  },
+  "intercom_hash":""
+}

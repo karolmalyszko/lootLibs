@@ -1,0 +1,46 @@
+apply plugin: 'maven'
+apply plugin: 'com.android.library'
+apply plugin: 'android-maven'
+
+def versionNameId = "2.7.7"
+def versionCodeId = 7
+def supportLibraryVersion = '26.1.0'
+
+task createPom {
+    pom {
+        project {
+            groupId 'loot'
+            artifactId 'image-cropper'
+            version versionNameId
+        }
+    }.writeTo("pom.xml")
+}
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.0"
+
+    group "loot"    //group ID
+    version versionNameId    //version
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 26
+        multiDexEnabled true
+        versionCode versionCodeId
+        versionName versionNameId
+        archivesBaseName = "image-cropper"    //artifact ID
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    api "com.android.support:appcompat-v7:$supportLibraryVersion"
+    implementation "com.android.support:exifinterface:$supportLibraryVersion"
+}
+

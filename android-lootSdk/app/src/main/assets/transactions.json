@@ -1,0 +1,1677 @@
+{
+  "transactions": [
+    {
+      "id": "855e3c50-5c31-47fc-9c12-18302ff6fe87",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "declined",
+      "local_amount": "685.63",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "271",
+      "type": "",
+      "status": "DECLINED",
+      "mcc": null,
+      "settlement_amount": "685.63",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "da6e63cb-5491-4db8-b8f2-acf61f091be4",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "pending",
+      "local_amount": "554.65",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "655",
+      "type": "",
+      "status": "PENDING",
+      "mcc": null,
+      "settlement_amount": "554.65",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "1d9bff8e-1074-4dd9-9825-aa69cf45e33c",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "KFC",
+      "local_amount": "252.42",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "154",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5812",
+      "settlement_amount": "252.42",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "eae602d6-1788-414d-a42e-15e212f26347",
+        "parent_id": null,
+        "name": "Food-drink",
+        "priority": "907",
+        "colour": "#063648",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/food-drink.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Food_drink.png"
+        },
+        "slug": "food-drink"
+      },
+      "found_category": {
+        "id": "eae602d6-1788-414d-a42e-15e212f26347",
+        "parent_id": null,
+        "name": "Food-drink",
+        "priority": "907",
+        "colour": "#063648",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/food-drink.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Food_drink.png"
+        },
+        "slug": "food-drink"
+      },
+      "merchant": null
+    },
+    {
+      "id": "84d0451f-6b48-44fb-901c-ffb470e6db91",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "Tesco",
+      "local_amount": "963.60",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "251",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5411",
+      "settlement_amount": "963.60",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "ea06ce78-a6f2-430f-a3d4-0afb595d8876",
+        "parent_id": null,
+        "name": "Groceries",
+        "priority": "408",
+        "colour": "#4cd964",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/groceries.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/groceries.png"
+        },
+        "slug": "groceries"
+      },
+      "found_category": {
+        "id": "ea06ce78-a6f2-430f-a3d4-0afb595d8876",
+        "parent_id": null,
+        "name": "Groceries",
+        "priority": "408",
+        "colour": "#4cd964",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/groceries.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/groceries.png"
+        },
+        "slug": "groceries"
+      },
+      "merchant": null
+    },
+    {
+      "id": "521e9feb-04ef-4e85-965a-78554bc23f25",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "local_eur",
+      "local_amount": "195.98",
+      "local_currency": "EUR",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "21",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5072",
+      "settlement_amount": "195.98",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "found_category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "merchant": null
+    },
+    {
+      "id": "48274f48-38c4-4a17-a05e-5fbaa3bd653a",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "local_pln",
+      "local_amount": "965.58",
+      "local_currency": "PLN",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "551",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3204",
+      "settlement_amount": "965.58",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "f1312d7c-70d0-4223-a483-84cc79935879",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "payment in",
+      "local_amount": "933.20",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "723",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3170",
+      "settlement_amount": "933.20",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "ae3d791e-ff12-49b9-8a7e-aa251925f5d1",
+        "parent_id": null,
+        "name": "Payment",
+        "priority": "67",
+        "colour": "#4db7c3",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Payment.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/payment.png"
+        },
+        "slug": "payment"
+      },
+      "found_category": {
+        "id": "ae3d791e-ff12-49b9-8a7e-aa251925f5d1",
+        "parent_id": null,
+        "name": "Payment",
+        "priority": "67",
+        "colour": "#4db7c3",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Payment.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/payment.png"
+        },
+        "slug": "payment"
+      },
+      "merchant": null
+    },
+    {
+      "id": "a44ccfcc-a908-4da7-94b3-d2d209d47d63",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "payment out",
+      "local_amount": "959.82",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "702",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3257",
+      "settlement_amount": "959.82",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "ae3d791e-ff12-49b9-8a7e-aa251925f5d1",
+        "parent_id": null,
+        "name": "Payment",
+        "priority": "67",
+        "colour": "#4db7c3",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Payment.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/payment.png"
+        },
+        "slug": "payment"
+      },
+      "found_category": {
+        "id": "ae3d791e-ff12-49b9-8a7e-aa251925f5d1",
+        "parent_id": null,
+        "name": "Payment",
+        "priority": "67",
+        "colour": "#4db7c3",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Payment.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/payment.png"
+        },
+        "slug": "payment"
+      },
+      "merchant": null
+    },
+    {
+      "id": "4e86f25b-bad8-4471-8f01-1a9b22a5d157",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "deposit in",
+      "local_amount": "530.58",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "109",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3355",
+      "settlement_amount": "530.58",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": false,
+      "category": {
+        "id": "0dc6d515-c1d2-4556-9595-64ee2d838560",
+        "parent_id": null,
+        "name": "Deposit",
+        "priority": "547",
+        "colour": "#65d389",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.png"
+        },
+        "slug": "deposit"
+      },
+      "found_category": {
+        "id": "0dc6d515-c1d2-4556-9595-64ee2d838560",
+        "parent_id": null,
+        "name": "Deposit",
+        "priority": "547",
+        "colour": "#65d389",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.png"
+        },
+        "slug": "deposit"
+      },
+      "merchant": null
+    },
+    {
+      "id": "f09d90a2-1bde-4cd1-a600-b6b350493fa1",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "deposit out",
+      "local_amount": "802.17",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "246",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3194",
+      "settlement_amount": "802.17",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": false,
+      "category": {
+        "id": "0dc6d515-c1d2-4556-9595-64ee2d838560",
+        "parent_id": null,
+        "name": "Deposit",
+        "priority": "547",
+        "colour": "#65d389",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.png"
+        },
+        "slug": "deposit"
+      },
+      "found_category": {
+        "id": "0dc6d515-c1d2-4556-9595-64ee2d838560",
+        "parent_id": null,
+        "name": "Deposit",
+        "priority": "547",
+        "colour": "#65d389",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/deposit.png"
+        },
+        "slug": "deposit"
+      },
+      "merchant": null
+    },
+    {
+      "id": "2a7dd662-c7e9-4339-b801-d00b55764838",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "lootgoals",
+      "local_amount": "277.12",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "387",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3210",
+      "settlement_amount": "277.12",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": false,
+      "category": {
+        "id": "469641fd-eee3-46d3-8944-faa7a21e308e",
+        "parent_id": null,
+        "name": "Lootgoals",
+        "priority": "497",
+        "colour": "#ffcc01",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/goals.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/lootgoals.png"
+        },
+        "slug": "lootgoals"
+      },
+      "found_category": {
+        "id": "469641fd-eee3-46d3-8944-faa7a21e308e",
+        "parent_id": null,
+        "name": "Lootgoals",
+        "priority": "497",
+        "colour": "#ffcc01",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/goals.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/lootgoals.png"
+        },
+        "slug": "lootgoals"
+      },
+      "merchant": null
+    },
+    {
+      "id": "5fcad89b-9ddf-4d01-b1ce-bb878b730f95",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "cash",
+      "local_amount": "328.53",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "709",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "1740",
+      "settlement_amount": "328.53",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "46c38777-c607-420c-b59e-271a0f1499ee",
+        "parent_id": null,
+        "name": "Cash",
+        "priority": "62",
+        "colour": "#29ba36",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/cash.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/cash.png"
+        },
+        "slug": "cash"
+      },
+      "found_category": {
+        "id": "46c38777-c607-420c-b59e-271a0f1499ee",
+        "parent_id": null,
+        "name": "Cash",
+        "priority": "62",
+        "colour": "#29ba36",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/cash.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/cash.png"
+        },
+        "slug": "cash"
+      },
+      "merchant": null
+    },
+    {
+      "id": "2c838f53-502d-4889-a732-315209f7b7bd",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "general",
+      "local_amount": "235.39",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "260",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "7513",
+      "settlement_amount": "235.39",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "found_category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "merchant": null
+    },
+    {
+      "id": "b5264723-ac91-4bb8-8def-9c395fed095d",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "325.11",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "137",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3752",
+      "settlement_amount": "325.11",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "4cca03a5-3ca0-4619-8ddc-a06ec8a0a3a3",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "517.11",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "209",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3604",
+      "settlement_amount": "517.11",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "96ef78e0-c8ab-44a6-a253-3e009bbf957c",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "731.51",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "468",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5965",
+      "settlement_amount": "731.51",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "found_category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "merchant": null
+    },
+    {
+      "id": "ec13c8c8-3b7c-4402-b139-52225ad9aea2",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "952.55",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "791",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "4784",
+      "settlement_amount": "952.55",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "e1dbb534-a7f4-4a59-a9b5-3acc7a3bbb96",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "23.99",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "458",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3728",
+      "settlement_amount": "23.99",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "18f7a7cd-9327-4b85-bd3a-10348b631005",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "207.58",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "627",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3087",
+      "settlement_amount": "207.58",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "c011a56a-cff6-42ff-a0a7-d2e9f60055a9",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "946.96",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "259",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3426",
+      "settlement_amount": "946.96",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "e52e37bb-f247-442a-8c8d-fe615ea5d8be",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "120.23",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "168",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3046",
+      "settlement_amount": "120.23",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "8744ca5b-38ae-4587-9086-8fd103978c8c",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "487.15",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:09+00:00",
+      "post_transaction_balance": "2",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3783",
+      "settlement_amount": "487.15",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:09+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:09+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "adac2144-34f2-4a1a-a6ec-34c55be83edb",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "22.73",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "834",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3187",
+      "settlement_amount": "22.73",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "c7afa769-8eab-4339-a209-672c97055aeb",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "406.84",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "385",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3366",
+      "settlement_amount": "406.84",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "ab91f9e2-b565-4de0-93fc-bd979ba706ac",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "689.63",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "430",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3658",
+      "settlement_amount": "689.63",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "ed5fe911-bf05-4733-8944-a9d6cddd99c9",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "742.02",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "436",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3106",
+      "settlement_amount": "742.02",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "c99a8439-557c-4779-a28d-d0b1726ec892",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "370.74",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "851",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3427",
+      "settlement_amount": "370.74",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "826eff10-2f0d-4787-9a51-defd7731f4c4",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "377.68",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "220",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5960",
+      "settlement_amount": "377.68",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "found_category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "merchant": null
+    },
+    {
+      "id": "d873c4dc-4e93-45cb-a8e8-bcacd2dd3310",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "423.01",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "226",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3037",
+      "settlement_amount": "423.01",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "47660646-d253-4af5-8adf-5a6b928c104e",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "68.07",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "928",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "8651",
+      "settlement_amount": "68.07",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "found_category": {
+        "id": "87c9d4e8-612e-47f9-87f8-c268acd98747",
+        "parent_id": null,
+        "name": "Bills",
+        "priority": "846",
+        "colour": "#da97e0",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/Bills.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/bills.png"
+        },
+        "slug": "bills"
+      },
+      "merchant": null
+    },
+    {
+      "id": "cbacddcf-97a8-4de8-8509-782c4ace794f",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "934.09",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "368",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3088",
+      "settlement_amount": "934.09",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "17728d9d-db16-4a63-a9e4-a6685789d7bb",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "966.09",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "440",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3045",
+      "settlement_amount": "966.09",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "in",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "9d3c7f4b-25ef-47b9-a8b2-0f36793c0e9a",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "to_be_confirmed",
+      "local_amount": "849.63",
+      "local_currency": "GBP",
+      "local_date": "2017-12-15T11:34:08+00:00",
+      "post_transaction_balance": "459",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3399",
+      "settlement_amount": "849.63",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-12-15T11:34:08+00:00",
+      "direction": "out",
+      "budget_status": "TO_BE_CONFIRMED",
+      "authorisation_date": "2017-12-15T11:34:08+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "d93d2a3a-21a5-4882-a90f-09d0a3a627e6",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "dummy",
+      "local_amount": "760.13",
+      "local_currency": "GBP",
+      "local_date": "2017-11-30T22:32:31+00:00",
+      "post_transaction_balance": "53",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "5940",
+      "settlement_amount": "760.13",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-11-30T22:32:31+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-11-30T22:32:31+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "found_category": {
+        "id": "7e3ecc67-87fb-40a9-a628-0d02d9a19991",
+        "parent_id": null,
+        "name": "General",
+        "priority": "163",
+        "colour": "#007aff",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/general.png"
+        },
+        "slug": "general"
+      },
+      "merchant": null
+    },
+    {
+      "id": "299bdbd3-2e19-428a-bf72-95b01384816b",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "dummy",
+      "local_amount": "907.68",
+      "local_currency": "GBP",
+      "local_date": "2017-11-27T14:32:31+00:00",
+      "post_transaction_balance": "118",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3395",
+      "settlement_amount": "907.68",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-11-27T14:32:31+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-11-27T14:32:31+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "ef40aff7-b2bf-4797-9fe3-0e0da08ef5d7",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "dummy",
+      "local_amount": "445.01",
+      "local_currency": "GBP",
+      "local_date": "2017-11-21T04:32:31+00:00",
+      "post_transaction_balance": "947",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3258",
+      "settlement_amount": "445.01",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-11-21T04:32:31+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-11-21T04:32:31+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "add00725-0db2-42d4-bc7d-ed10da5959a6",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "dummy",
+      "local_amount": "85.75",
+      "local_currency": "GBP",
+      "local_date": "2017-11-16T01:32:31+00:00",
+      "post_transaction_balance": "546",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3528",
+      "settlement_amount": "85.75",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-11-16T01:32:31+00:00",
+      "direction": "out",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-11-16T01:32:31+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    },
+    {
+      "id": "8043abe6-befa-4db6-b88c-413fe8ed2a66",
+      "account_id": "9910e8ad-a80d-459b-9de0-6a5be1aeb6d8",
+      "description": "dummy",
+      "local_amount": "768.60",
+      "local_currency": "GBP",
+      "local_date": "2017-11-13T13:32:31+00:00",
+      "post_transaction_balance": "30",
+      "type": "",
+      "status": "SETTLED",
+      "mcc": "3047",
+      "settlement_amount": "768.60",
+      "settlement_currency": "GBP",
+      "settlement_date": "2017-11-13T13:32:31+00:00",
+      "direction": "in",
+      "budget_status": "INCLUDED",
+      "authorisation_date": "2017-11-13T13:32:31+00:00",
+      "category_changeable": true,
+      "category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "found_category": {
+        "id": "2bc459ea-db00-4526-9219-6604c2f9a677",
+        "parent_id": null,
+        "name": "Travel",
+        "priority": "47",
+        "colour": "#5ac8fa",
+        "icon": {
+          "icon_svg_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.svg",
+          "icon_png_url": "https://loot-category-icon.s3.amazonaws.com/uploads/travel.png"
+        },
+        "slug": "travel"
+      },
+      "merchant": null
+    }
+  ],
+  "next_page": null
+}

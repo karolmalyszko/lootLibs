@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_token">auth_token</string>
+    <string name="email_prefs">email_pref</string>
+    <string name="intercom_hash">intercom_hash</string>
+</resources>
